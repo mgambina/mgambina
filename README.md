@@ -9,6 +9,12 @@ This account is still in the making so you can find exercises and assignments ma
 As I still have a lot to learn I'm always looking for courses, workshops, and opportunities to learn from fellow developers.
 
 I try to be involved in the dev community so I go to meetups and I'm part of several women dev communities.
+
+You can reach me through:
+[![Twitter: margambina](https://img.shields.io/twitter/follow/margambina?style=social)](https://twitter.com/margambina)
+[![Linkedin: Marianela Gambina](https://img.shields.io/badge/-MarianelaGambina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johannasantos/)](https://www.linkedin.com/in/marianela-gambina)
+
+
 <!--
 **mgambina/mgambina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
