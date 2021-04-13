@@ -10,7 +10,7 @@ As I still have a lot to learn I'm always looking for courses, workshops, and op
 
 I try to be involved in the dev community so I go to meetups and I'm part of several women dev communities.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgambina)](https://github.com/mgambina/github-readme-stats&show_icons=true&theme=cobalt)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgambina&show_icons=true&theme=cobalt)](https://github.com/mgambina/github-readme-stats)
 
 You can reach me through:
 [![Twitter: margambina](https://img.shields.io/twitter/follow/margambina?style=social)](https://twitter.com/margambina)
