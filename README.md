@@ -22,7 +22,8 @@ I've mostly work with Javascript and NodeJS but currently I'm learning and worki
 
 You can reach me through:
 [![Twitter: margambina](https://img.shields.io/twitter/follow/margambina?style=social)](https://twitter.com/margambina)
-[![Linkedin: Marianela Gambina](https://img.shields.io/badge/-MarianelaGambina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marianela-gambina/)](https://www.linkedin.com/in/marianela-gambina)
+
+[![Linkedin: Marianela Gambina](https://img.shields.io/badge/-MarianelaGambina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marianela-gambina/)
 
 Updated on: **April 2021**
 <!--
