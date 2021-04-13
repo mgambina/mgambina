@@ -19,11 +19,12 @@ The majority of my contributions are done on my work's repositories which are pr
 I've mostly work with Javascript and NodeJS but currently I'm learning and working with Golang
 
 ### Contact me
+
 You can reach me through:
 [![Twitter: margambina](https://img.shields.io/twitter/follow/margambina?style=social)](https://twitter.com/margambina)
-[![Linkedin: Marianela Gambina](https://img.shields.io/badge/-MarianelaGambina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johannasantos/)](https://www.linkedin.com/in/marianela-gambina)
+[![Linkedin: Marianela Gambina](https://img.shields.io/badge/-MarianelaGambina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marianela-gambina/)](https://www.linkedin.com/in/marianela-gambina)
 
-Updated on: *April 2021*
+Updated on: **April 2021**
 <!--
 **mgambina/mgambina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
